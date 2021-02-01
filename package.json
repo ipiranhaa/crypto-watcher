@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "@babel/preset-typescript": "^7.12.7",
     "autoprefixer": "^10.2.4",
+    "babel-plugin-inline-react-svg": "^1.1.2",
     "next": "10.0.6",
+    "next-images": "^1.7.0",
     "postcss": "^8.2.4",
     "react": "17.0.1",
     "react-dom": "17.0.1",
